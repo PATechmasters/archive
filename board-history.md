@@ -24,7 +24,7 @@
 * President: Clifford Ressel '15, Jake Herman '15
 * Assistant President: Ravn Jenkins '15
 * Server Administrator: Thayer Anderson '15
-* Webmaster: Eric Lee '16 ?
+* Webmaster: Claire Wolford '15
 
 ## 2013–2014 Board Members
 * President: Tadaes Nemec '14
