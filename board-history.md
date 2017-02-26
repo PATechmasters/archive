@@ -1,5 +1,11 @@
 # List of all Board Members, past and present
 
+## 2017–2018 Board Members
+* President: Miles McCain '19 and Alex Reichenbach '18
+* Assistant President: Varun Roy '19
+* Server Administrator: Darcy Meyer '18
+* Webmaster: Jeffrey Shen '19
+
 ## 2016–2017 Board Members
 * President: Yatharth Agarwal '17, Tony Zhaocheng Tan '17
 * Assistant President: Philip Lamkin '17
