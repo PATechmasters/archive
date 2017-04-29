@@ -84,11 +84,11 @@
 ## 2004–2005 Board Members
 * President: Meng Tan '05
 * Assistant President: Neville Williams '05
-* Server Administrator: ?
+* Server Administrator: Benjamin Nahill '05
 * Webmaster: ?
 
 ## 2003–2004 Board Members
-* President: ?
+* President: Anthony Roldan '04
 * Assistant President: ?
 * Server Administrator: ?
 * Webmaster: ?
