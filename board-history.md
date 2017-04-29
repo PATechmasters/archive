@@ -82,8 +82,8 @@
 * Webmaster: ?
 
 ## 2004–2005 Board Members
-* President: ?
-* Assistant President: ?
+* President: Meng Tan '05
+* Assistant President: Neville Williams '05
 * Server Administrator: ?
 * Webmaster: ?
 
